@@ -1,0 +1,33 @@
+---
+title: "Proyectos de Maestría en Ciencias Agropecuarias"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+lang: es 
+
+author: "Ing. Yudith Cintra Flores"
+
+navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/yudicf
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+number-sections: true
+
+comments: 
+ hypothesis:
+  theme: clean  
+---
+
+![](logos.jpg)
