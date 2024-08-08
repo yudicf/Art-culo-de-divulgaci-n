@@ -1,0 +1,15 @@
+{
+  "hash": "89f2ea891ab2db3f6aeb85e2d1b1e789",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Artículo de revisión biliográfica\"\nauthor: \"Ing. Yudith Cintra Flores\"\ndate: \"2024-07-10\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
