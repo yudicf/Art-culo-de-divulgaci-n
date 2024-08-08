@@ -1,0 +1,41 @@
+---
+title: "Artículo Científico 1"
+author: "Ing. Yudith Cintra Flores"
+date: "2024-07-10"
+categories: [Presentación]
+lang: es
+
+format: 
+  revealjs:
+    width: 1400
+    height: 800
+    preview-links: true
+    chalkboard:
+      theme: chalkboard
+      boardmarker-width: 5
+      buttons: true
+      src: notas.json
+    link-external-newwindow: true
+    navigation-mode: vertical
+    menu:
+      side: left
+      width: normal
+      
+    
+
+
+comments: 
+  hypothesis: true
+---
+
+## Introdución
+
+:::{style="text-align:justify; font-size: 70%"}
+**Título: Caracterización bioquímica como promotores del crecimiento vegetal de *Sphingomonas paucimobilis, Pseudomonas tolaasii, Burkholderia ambifaria, Saccharomyces cerviceae, Candida orthosilopsis, Penicillium sp. y Cunninghamella elegans*. **
+:::
+
+![Fuente: Cintra Flores, 2019](img 1.png){width="1000" height="450"}
+
+:::{style="text-align:center; font-size: 60%"}
+(González et al., 2016; Fernández et al., 2018; FAO, 2019; Gaceta Oficial, 2019; SIAP, 2021; FIRA, 2022)
+:::
