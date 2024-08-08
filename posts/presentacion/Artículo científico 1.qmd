@@ -20,7 +20,7 @@ format:
     menu:
       side: left
       width: normal
-    footer: "[Inicio](../index.qmd)"
+    footer: "[Inicio](../../index.qmd)"
       
     
 
