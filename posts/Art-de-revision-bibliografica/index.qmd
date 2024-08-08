@@ -4,6 +4,9 @@ author: "Ing. Yudith Cintra Flores"
 date: "2024-07-10"
 categories: [news, code, analysis]
 image: "image.jpg"
+
+comments: 
+  hypothesis: true
 ---
 
 This is a post with executable code.
