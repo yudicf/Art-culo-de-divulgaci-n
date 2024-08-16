@@ -4,9 +4,6 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
@@ -15,4 +12,12 @@ about:
       href: https://github.com
 ---
 
-About this blog
+Al comité tutorial:
+
+En este blog encontrarán un artículo de divulgación científica y la presentación de un artículo científico. 
+
+Para su revisión pueden realizar anotaciones mediante **Hypothesis** 
+
+Quedo atenta a sus comentarios
+
+Ing. Yudith Cintra Flores

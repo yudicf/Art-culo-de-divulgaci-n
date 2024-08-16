@@ -15,6 +15,7 @@ format:
       boardmarker-width: 5
       buttons: true
       src: notas.json
+    theme: solarized
     
     link-external-newwindow: true
     navigation-mode: vertical
@@ -32,7 +33,7 @@ comments:
   hypothesis: true
 ---
 
-## Introdución
+## Introducción
 
 ::: {style="text-align:justify; font-size: 70%"}
 **Título: Caracterización bioquímica como promotores del crecimiento vegetal de *Sphingomonas paucimobilis, Pseudomonas tolaasii, Burkholderia ambifaria, Saccharomyces cerviceae, Candida orthosilopsis, Penicillium* sp. y *Cunninghamella elegans*.**
@@ -40,7 +41,7 @@ comments:
 
 ![Fuente: Cintra Flores, 2019](img_1.png){width="1000" height="450"}
 
-::: {style="text-align:center; font-size: 60%"}
+::: {style="text-align:center; font-size: 50%"}
 @cepero2016; @fernández-jardónfernández2022 ; FAO (2019); Gaceta Oficial (2019); SIAP (2021); FIRA (2022)
 :::
 
@@ -81,7 +82,7 @@ Evaluar el efecto de la inoculación de bacterias, levaduras y hongos filamentos
 
 ::: columns
 ::: {.column width="80%"}
-::: {style="text-align:left; font-size: 125%"}
+::: {style="text-align:left; font-size: 110%"}
 **1-**Activación de cepas
 
 **2-**Siembra de bacterias en Agar Nutritivo y hongos filamentosos y levaduras en Agar Papa Dextrosa (PDA)
