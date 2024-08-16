@@ -4,7 +4,7 @@ author: "Ing. Yudith Cintra Flores"
 date: "2024-07-10"
 categories: [Presentación]
 lang: es
-image: "imagen7.png"
+image: "OIP.jpeg"
 
 format: 
   revealjs:
